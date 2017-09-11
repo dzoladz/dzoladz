@@ -1,6 +1,4 @@
-## GitHub Deploy to /Docs
-## 
-baseurl = "https://dzoladz.github.io/dzoladz/"  # End your URL with a `/` trailing slash.
+baseurl = "https://dzoladz.github.io/dzoladz/"  # End your URL with a `/` trailing slash. Github Deploy.
 publishDir = "docs"
 
 title = ""
