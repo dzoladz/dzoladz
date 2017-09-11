@@ -30,7 +30,7 @@ A basic alert
 
 You'll often need inline `config.yaml`
 
-Add a simple relative reference to [RightClick2017]({{< ref "/talk/rightclick2017/" >}})
+Add a simple relative reference to [RightClick2017]({{< ref "talk/rightclick2017.md" >}})
 
 Or, an external [TOML documentation](https://github.com/toml-lang/toml#user-content-string)
 
