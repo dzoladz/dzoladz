@@ -1,4 +1,8 @@
-baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
+## GitHub Deploy to /Docs
+## 
+baseurl = "https://dzoladz.github.io/"  # End your URL with a `/` trailing slash.
+publishDir = "docs"
+
 title = ""
 copyright = "&copy; 2017 Derek C. Zoladz"
 theme = "academic"
