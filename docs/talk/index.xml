@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on </title>
+    <link>https://dzoladz.github.io/dzoladz/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Derek C. Zoladz</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/dzoladz/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Beam me up, Scotty: Migrating into an Evergreen Consortium</title>
+      <link>https://dzoladz.github.io/dzoladz/talk/rightclick2017/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dzoladz.github.io/dzoladz/talk/rightclick2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
