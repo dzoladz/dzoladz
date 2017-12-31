@@ -4,7 +4,7 @@ date = "2016-04-27"
 draft = true
 
 # Project title.
-title = "Thurgood Marshall"
+title = "Augmented Reality at Columbus State Library [Photo Essay]"
 
 # Project summary to display on homepage.
 summary = "Augmented Reality Exhibit at Columbus State Community College Library"
@@ -27,4 +27,20 @@ math = false
 #caption = "My caption :smile:"
 
 +++
+
+# Augmented Reality @ Columbus State Library
+## Thurgood Marshall and the Supreme Court 2015
+
+[Aurasma](https://www.aurasma.com/)
+
+{{< figure src="/dzoladz/img/thurgood/thurgood-1.jpg" title="(from left to right) Frank Neutzling, Daryl Brown, Derek Zoladz" caption="Post-Award Photo of the Major Library Staff Contributors to the Project." attr="">}}
+
+{{< figure src="/dzoladz/img/thurgood/thurgood-2.jpg" title="View of Exhibit from Main Entrance" caption="" attr="">}}
+
+{{< figure src="/dzoladz/img/thurgood/thurgood-3.jpg" title="Display at Columbus State Bookstore" caption="" attr="">}}
+
+Here's an example of a triggered augmented reality layer for one of the case posters. There is no audio on this clip.
+{{< youtube id="hJRJTxkP7tY" autoplay="true" loop="" >}}   
+
+
 

@@ -30,7 +30,7 @@ weight = 1
   year = 2008
 
 [[education.courses]]
-  course = "AA in Liberal Arts"
+  course = "AA in Humanities"
   institution = "Columbus State Community College"
   year = 2006
  
@@ -38,4 +38,4 @@ weight = 1
 
 # Biography
 
-Hi! I'm the Project Coordinator for the [Consortium of Ohio Libraries (COOL)](https://www.cool-cat.org/eg/opac/home), a collaborative of independent libraries pioneering the use of an open-source library system: [Evergreen ILS](https://evergreen-ils.org). You'll also find me involved with a broad range of library-related technology management and support services to Ohio's public, academic, special libraries, and cultural heritage institutions.
+Project Coordinator for the [Consortium of Ohio Libraries (COOL)](https://www.cool-cat.org/eg/opac/home), a collaborative of independent libraries pioneering the use of the open-source [Evergreen ILS](https://evergreen-ils.org) in Ohio.
