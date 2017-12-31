@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 date = "2016-04-27"
-draft = true
+#draft = true
 
 # Project title.
 title = "Augmented Reality at Columbus State Library [Photo Essay]"
@@ -28,10 +28,11 @@ math = false
 
 +++
 
-# Augmented Reality @ Columbus State Library
-## Thurgood Marshall and the Supreme Court 2015
+*Thurgood Marshall and the Supreme Court* was an interactive exhibit at the Columbus State Library in 2015. Posters were brought to life using the augmented reality app [Aurasma](https://www.aurasma.com/).
 
-[Aurasma](https://www.aurasma.com/)
+> "Using emerging technology, team members created the exhibit and online guide that was enjoyed and appreciated by the community, ranging from 5th graders to local business leaders. With the help of many collaborators, the team went beyond the exhibit to create a wide range of programs including a film series, an art exhibit, a lecture series, and a companion display and programming in the Bookstore. This innovative and extraordinary program of exhibits and events provided the campus and community with the opportunity to learn more deeply about events and individuals that have had an impact on the way we live today." - **CSCC Quality Team Award, Gold 2016**
+
+{{< figure src="/dzoladz/img/thurgood/exhibit-poster.png" title="Announcement board for the exhibit" caption="" attr="">}}
 
 {{< figure src="/dzoladz/img/thurgood/thurgood-1.jpg" title="(from left to right) Frank Neutzling, Daryl Brown, Derek Zoladz" caption="Post-Award Photo of the Major Library Staff Contributors to the Project." attr="">}}
 
@@ -40,7 +41,7 @@ math = false
 {{< figure src="/dzoladz/img/thurgood/thurgood-3.jpg" title="Display at Columbus State Bookstore" caption="" attr="">}}
 
 Here's an example of a triggered augmented reality layer for one of the case posters. There is no audio on this clip.
-{{< youtube id="hJRJTxkP7tY" autoplay="true" loop="" >}}   
+{{< youtube id="hJRJTxkP7tY" autoplay="false" loop="true" >}}   
 
 
 
