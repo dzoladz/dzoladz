@@ -15,7 +15,7 @@ weight = 1
     "Digital Library Applications",
     "Systems/DevOps Librarians",
     "Open Source Technologies",
-    "Technology Integration & Human Experience"
+    "Technology Acquisition, Integration & Extraction"
   ]
 
 # List your qualifications (such as academic degrees).

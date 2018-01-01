@@ -2,7 +2,7 @@ baseurl = "https://dzoladz.github.io/dzoladz/"  # End your URL with a `/` traili
 publishDir = "docs"
 
 title = ""
-copyright = "&copy; 2017 Derek C. Zoladz"
+copyright = "&copy; 2018 Derek C. Zoladz"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
