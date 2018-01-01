@@ -158,6 +158,11 @@ defaultContentLanguageInSubdir = false
     icon = "facebook"
     icon_pack = "fa"
     link = "//facebook.com/derekcraigzoladz"
+    
+  [[params.social]]
+  	icon = "file-pdf-o"
+  	icon_pack = "fa"
+  	link = "files/cv.pdf"
 
 ##################
 # Navigation Links
