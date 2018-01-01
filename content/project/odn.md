@@ -9,7 +9,7 @@ title = "Ohio Digital Network"
 summary = "Ohio's DPLA Service Hub. Technology Working Group for the 3-year Pilot."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "odn_400x400.jpg"
+image_preview = "odn/odn_400x400.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -10,7 +10,7 @@ title = "Augmented Reality at Columbus State Library [Photo Essay]"
 summary = "Augmented Reality Exhibit at Columbus State Community College Library"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "thurgood-cover.png"
+image_preview = "thurgood/thurgood-cover.png"
 
 # Tags: can be used for filtering projects.
 tags = ["technology"]

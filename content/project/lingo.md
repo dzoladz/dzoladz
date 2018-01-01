@@ -10,7 +10,7 @@ title = "Lingo"
 summary = "Mobile Application Developed for ILEADUSA-OHIO 2013"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "biz-tutorials.png"
+image_preview = "lingo/lingo-icon.png"
 
 # Tags: can be used for filtering projects.
 tags = ["technology"]
