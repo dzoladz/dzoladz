@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 date = "2013-06-23"
-draft = true
+draft = false
 
 # Project title.
 title = "Lingo"
@@ -28,26 +28,28 @@ math = false
 
 +++
 
-Ohio’s first ILEAD USA, a multi-state program designed to help library staff understand and respond to user needs through the application of participatory technology tools. 
+Ohio’s first ILEAD USA was a multi-state immersive continuing education program that develops library leaders through projects based on community needs via the application of participatory technology tools. Ohio participants joined others from Colorado, Illinois, Iowa, and Utah in this national initiative. ILEAD USA was funded by a Laura Bush 21st Century Librarian Program grant to the State Library of Illinois from the Institute of Museum and Library Services.
 
-Ohio participants will join others from Colorado, Illinois, Iowa, and Utah in this national initiative.  Zoladz and Zavaloff will be assigned to teams that will work on a single group project to address at least one identified need within their communities of users.
-ILEAD USA is funded by a Laura Bush 21st Century Librarian Program grant to the State Library of Illinois from the Institute of Museum and Library Services.
+Myself, and a former CSCC colleague Julie Zaveloff, were selected as part of the initial group from Ohio. Our team was rounded out by other librarians from around the state:
+
+- Kirstin Krumsee, State Library of Ohio
+- Jessica Crossfield McIntosh, Otterbein University
+- David Green, OhioNET
 
 {{< figure src="/dzoladz/img/lingo/zoladz-zaveloff.jpg" title="Derek Zoladz and Julie Zaveloff" caption="Columbus State Librarians selected for ILEAD USA - OHIO 2013" attr="">}}
 
-ILEAD USA is an immersive continuing education program that develops library leaders through projects based on community needs using technology.  As part of the first in-person session in March, teams had only a few hours each evening to create short videos explaining their projects.
+  As part of the first in-person session in March, teams had only a few hours each evening to create short videos explaining their projects.
 [insert initial Lost In Translation video here]
 
-Our idea of what we would try to do changed quite a bit, from a dictionary to a classification translator tool.
+Our team was called 'Lost In Translation', as our original idea for the project was to create a dictionary that would demystify library jargon... but we ended up designing a classification translation tool.
 
-[Branding board and concepts for the app]
 {{< figure src="/dzoladz/img/lingo/lingo-icon.png" title="Application Logo" caption="Designed by Lost in Translation team member Kirstin Krumsee" attr="">}} 
-
-Some information regarding the application here
 
 {{< figure src="/dzoladz/img/lingo/lingo-1.png" title="UI Design Mock-up for Lingo" caption="" attr="">}}
 
-Our final pitch of the application was to our local library administration, participating organizations and team partners, and the State Library of Ohio Board.
+I've met some lifelong friends during this year. I'm sure we'll meet again on a number of future projects. Project code is available on [GitHub](https://github.com/dzoladz/know-the-lingo), although unmaintained.
+
+We made a final pitch of the application to our local library administrations, participating organizations and partners, as well as to the State Library of Ohio Board.
 
 {{< figure src="/dzoladz/img/lingo/board-presentation.jpg" title="Derek Zoladz and Kirstin Krumsee" caption="Describing Lingo and it's Role" attr="">}}
 
