@@ -181,25 +181,25 @@ defaultContentLanguageInSubdir = false
   url = "#publications"
   weight = 2
   
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 3
+#[[menu.main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = xxxxx
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
+  weight = 4
   
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 
 #############
