@@ -7,15 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Derek C. Zoladz</copyright>
-    <lastBuildDate>Thu, 10 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/dzoladz/tags/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Mar 2018 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dzoladz.github.io/dzoladz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Demo</title>
-      <link>https://dzoladz.github.io/dzoladz/tags/demo/</link>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <title>Dpla</title>
+      <link>https://dzoladz.github.io/dzoladz/tags/dpla/</link>
+      <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/dzoladz/tags/demo/</guid>
+      <guid>https://dzoladz.github.io/dzoladz/tags/dpla/</guid>
       <description></description>
     </item>
     
@@ -25,15 +27,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dzoladz.github.io/dzoladz/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://dzoladz.github.io/dzoladz/tags/test/</link>
-      <pubDate>Sun, 10 Sep 2017 11:00:00 +0000</pubDate>
-      
-      <guid>https://dzoladz.github.io/dzoladz/tags/test/</guid>
       <description></description>
     </item>
     

@@ -5,26 +5,17 @@
     
     <url>
     
-      <loc>https://dzoladz.github.io/dzoladz/talk/rightclick2017/</loc>
+      <loc>https://dzoladz.github.io/dzoladz/post/dpla/</loc>
+      <lastmod>2018-03-02T11:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://dzoladz.github.io/dzoladz/publication/rightclick2017/</loc>
       <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dzoladz.github.io/dzoladz/post/test/</loc>
-      <lastmod>2017-09-10T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dzoladz.github.io/dzoladz/project/odn/</loc>
-      <lastmod>2017-08-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -42,15 +33,6 @@
     <url>
     
       <loc>https://dzoladz.github.io/dzoladz/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dzoladz.github.io/dzoladz/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,8 +59,27 @@
     
     <url>
     
+      <loc>https://dzoladz.github.io/dzoladz/project/lingo/</loc>
+      <lastmod>2013-06-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://dzoladz.github.io/dzoladz/</loc>
       <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://dzoladz.github.io/dzoladz/publication_types/1/</loc>
+      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -106,8 +107,8 @@
     
     <url>
     
-      <loc>https://dzoladz.github.io/dzoladz/tags/demo/</loc>
-      <lastmod>2017-08-10T00:00:00+00:00</lastmod>
+      <loc>https://dzoladz.github.io/dzoladz/tags/dpla/</loc>
+      <lastmod>2018-03-02T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -117,7 +118,7 @@
     <url>
     
       <loc>https://dzoladz.github.io/dzoladz/project/</loc>
-      <lastmod>2017-08-10T00:00:00+00:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -127,7 +128,7 @@
     <url>
     
       <loc>https://dzoladz.github.io/dzoladz/publication_types/</loc>
-      <lastmod>2015-07-06T00:00:00+00:00</lastmod>
+      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -137,7 +138,7 @@
     <url>
     
       <loc>https://dzoladz.github.io/dzoladz/tags/</loc>
-      <lastmod>2017-08-10T00:00:00+00:00</lastmod>
+      <lastmod>2018-03-02T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -148,16 +149,6 @@
     
       <loc>https://dzoladz.github.io/dzoladz/tags/technology/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dzoladz.github.io/dzoladz/tags/test/</loc>
-      <lastmod>2017-09-10T11:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

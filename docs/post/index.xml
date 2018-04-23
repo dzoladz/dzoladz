@@ -8,46 +8,17 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Derek C. Zoladz</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/dzoladz/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://dzoladz.github.io/dzoladz/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Test Post</title>
-      <link>https://dzoladz.github.io/dzoladz/post/test/</link>
-      <pubDate>Sun, 10 Sep 2017 11:00:00 +0000</pubDate>
+      <title>Ohio Digital Network Launches</title>
+      <link>https://dzoladz.github.io/dzoladz/post/dpla/</link>
+      <pubDate>Fri, 02 Mar 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/dzoladz/post/test/</guid>
-      <description>
-
-&lt;h1 id=&#34;some-markdown&#34;&gt;Some markdown&lt;/h1&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;&amp;lt;thing&amp;gt;
-	&amp;lt;color&amp;gt;&amp;lt;/color&amp;gt;
-	&amp;lt;shape&amp;gt;&amp;lt;/shape&amp;gt;
-&amp;lt;/thing&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;A basic alert&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;blockquote&gt;
-&lt;p&gt;Nothing but a block quote&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You&amp;rsquo;ll often need inline &lt;code&gt;config.yaml&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Add a simple relative reference to &lt;a href=&#34;https://dzoladz.github.io/dzoladz/talk/rightclick2017/&#34; target=&#34;_blank&#34;&gt;RightClick2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Or, an external &lt;a href=&#34;https://github.com/toml-lang/toml#user-content-string&#34; target=&#34;_blank&#34;&gt;TOML documentation&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;p&gt;This is a warning that I&amp;rsquo;m moving a little slow tonight.&lt;/p&gt;
-
-&lt;/div&gt;
-
-</description>
+      <guid>https://dzoladz.github.io/dzoladz/post/dpla/</guid>
+      <description>Participating in the early group for the technical infrastructure for this project - simply called &amp;lsquo;DPLA Ohio&amp;rsquo; at the time - shaped the trajectory of my career firmly towards technology. Check out the State Library of Ohio&amp;rsquo;s announcement.</description>
     </item>
     
   </channel>

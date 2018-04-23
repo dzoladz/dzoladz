@@ -8,7 +8,18 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Derek C. Zoladz</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/dzoladz/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://dzoladz.github.io/dzoladz/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beam Me Up, Scotty: Migrating into an Evergreen Consortium</title>
+      <link>https://dzoladz.github.io/dzoladz/publication/rightclick2017/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dzoladz.github.io/dzoladz/publication/rightclick2017/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons</title>
