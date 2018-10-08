@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2017-09-01T00:00:00"
+date = "2018-09-01T00:00:00"
 draft = false
 
 widget = "about"
@@ -12,11 +12,11 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Information Systems",
     "Libraries & Archives",
-    "Open Source Projects",
-    "Graphical Notations",
-    "Organized Sound"
+    "DevOps Librarians",
+    "Process Automation",
+    "Systems Integration",
+    "Open Source Projects"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,7 +38,4 @@ weight = 1
 +++
 
 # Biography
-
-Early life in the microscopic village of [Rayland, Ohio](https://en.wikipedia.org/wiki/Rayland,_Ohio). Raised on Pittsburgh Pirates baseball, Maxwell House coffee, and a cavalcade of books. My favorite place to read is on a long flight. Waiting patiently for me, on my personal library's bookshelves are: [The Stack](http://www.worldcat.org/oclc/964027177), [Tar for Mortar](http://www.worldcat.org/oclc/1031482467), [The Weird and the Eerie](http://www.worldcat.org/oclc/992465560), [The Arsenal of Exclusion & Inclusion](http://www.worldcat.org/oclc/1020148007).
-
-<!--Project Coordinator for the [Consortium of Ohio Libraries (COOL)](https://www.cool-cat.org/eg/opac/home), a collaborative of independent libraries pioneering the use of the open source [Evergreen ILS](https://evergreen-ils.org) in Ohio.-->
+Promoting open source software in libraries with the [Consortium of Ohio Libraries (COOL)](http://info.cool-cat.org/), a collaborative of independent libraries using [Evergreen ILS](https://evergreen-ils.org/) in Ohio.   
