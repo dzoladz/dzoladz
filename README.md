@@ -1,15 +1,14 @@
-<!--
-https://github-readme-stats.vercel.app/api?username=dzoladz&show_icons=true&theme=slateorange&hide=stars
--->
+| Site | Type | Description |
+| ---- | --- | --- |
+| [Personal Site](https://www.derekzoladz.com) | Blog | Libraries, Technology, and Learning |
+| [Guitar Solo™](https://guitar.derekzoladz.com/) | Blog | Guitars |
+| [Palimpsest](https://www.derekzoladz.com/palimpsest/) | Blog | System Administration Notebook |
+| [Speculative Library Futures](https://futures.alaoweb.org/) | Creative Project | Post-Pandemic Libraries |
+| [System Status](https://dzoladz.github.io/status/)| Automation | System Monitoring via GitHub Actions |
 
 <p align="center">
   <samp>
-    <a href="https://www.derekzoladz.com">site</a> .
-    <a href="https://dzoladz.github.io/status/">status</a> .
-    <a href="https://dzoladz.github.io/palimpsest/">palimpsest</a> .
-    <a href="https://futures.alaoweb.org/">futures</a> .
-    <a href="https://dzoladz.github.io/curiousitarium/collection/">curiousitarium</a> .
-    <a href="https://github.com/sponsors/dzoladz">sponsor</a> .
+    <a href="https://github.com/sponsors/dzoladz">sponsorship</a> .
     <a href="https://gitlab.com/dzoladz">gitlab</a>
   </samp>
 </p>
