@@ -7,6 +7,7 @@
 | [System Status](https://dzoladz.github.io/status/)| Automation | System Monitoring via GitHub Actions |
 | [TEDSIG 2020](https://tedsig.alaoweb.org/) | Event | [John Jung](https://johnjung.us/): Speculative and Critical Design, and its potential value for Libraries |
 | [ALAO](https://2020.alaoweb.org/) | Event | Website for [ALAO's](https://alaoweb.org/) First Ever Fully-Remote Conference |
+| [Code4Lib](https://2021.code4lib.org/) | Event | Website for the 2021 Annual Conference |
 
 <p align="center">
   <samp>
