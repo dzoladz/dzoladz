@@ -1,7 +1,7 @@
 | Site | Type | Description |
 | ---- | --- | --- |
 | [Personal Site](https://www.derekzoladz.com) | Blog | Libraries, Technology, and Learning |
-| [Guitar Solo™](https://guitar.derekzoladz.com/) | Blog | Guitars |
+| [Guitar Solo™](https://guitar.derekzoladz.com/) | Blog | Guitars, Effects Pedals, Tube Amps |
 | [Palimpsest](https://www.derekzoladz.com/palimpsest/) | Blog | System Administration Notebook |
 | [Speculative Library Futures](https://futures.alaoweb.org/) | Creative Project | Post-Pandemic Libraries, a [TEDSIG](https://www.alaoweb.org/igs/tedsig/index.html) publication |
 | [System Status](https://dzoladz.github.io/status/)| Automation | System Monitoring via GitHub Actions |
